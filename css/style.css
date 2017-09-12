@@ -1,0 +1,23 @@
+.container {
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: black;
+	position: relative;
+}
+.snake {
+	width: 20px;
+	height: 20px;
+	background-color: grey;
+	position: absolute;
+}
+.food {
+	width: 20px;
+	height: 20px;
+	background-color: white;
+	position: absolute;
+}
+.button {
+	margin: 30px auto;
+	display: block;
+}
